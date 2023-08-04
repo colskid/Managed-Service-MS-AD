@@ -1,5 +1,7 @@
 # Project: Managed Service for Microsoft Active Directory on Google Cloud
 
+![Imgur](https://i.imgur.com/ypZ1yVh.jpg) 
+
 ## Learning Points
 
 ### 1. Provisioning Active Directory (AD) Servers using Google Cloud Marketplace
