@@ -50,4 +50,4 @@ Now that your VM is properly configured, you can add it to the Active Directory 
 
 ## Conclusion
 
-By following these learning points, you will have successfully set up a project involving Managed Service for Microsoft Active Directory on Google Cloud Platform. This project covers provisioning AD servers, deploying Windows VMs, configuring DNS settings, and adding VMs to the domain.
+By following these learning points, you will have successfully set up a project involving a Managed Service for Microsoft Active Directory on Google Cloud. This project covers provisioning AD servers, deploying Windows VMs, configuring DNS settings, and adding VMs to the domain.
