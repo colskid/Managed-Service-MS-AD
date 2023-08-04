@@ -4,7 +4,7 @@
 
 ## Learning Points
 
-### 1. Provisioning Active Directory (AD) Servers using Google Cloud Marketplace
+### 1. Provisioning Active Directory (AD) Servers using Google Cloud
 
 To start the project, you will need to provision Active Directory servers using the Google Cloud Marketplace. Here are the steps:
 
