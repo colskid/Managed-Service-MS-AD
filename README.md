@@ -6,7 +6,7 @@
 
 ### 1. Provisioning Active Directory (AD) Servers using Google Cloud
 
-To start the project, you will need to provision Active Directory servers using the Google Cloud Marketplace. Here are the steps:
+To start the project, I needed to provision Active Directory servers using the Google Cloud Marketplace. Here are the steps:
 
 - Log in to your Google Cloud Console.
 - Navigate to the **Marketplace** section.
@@ -16,7 +16,7 @@ To start the project, you will need to provision Active Directory servers using 
 
 ### 2. Deploy a Windows Virtual Machine
 
-After provisioning the AD servers, you'll need to deploy a Windows virtual machine that will be added to the domain. Here's what you need to do:
+After provisioning the AD servers, I needed to deploy a Windows virtual machine that will be added to the domain. Here's what I did:
 
 - Access the Google Cloud Console.
 - Go to the **Compute Engine** section.
@@ -27,7 +27,7 @@ After provisioning the AD servers, you'll need to deploy a Windows virtual machi
 
 ### 3. Update DNS Settings for a Windows VM Instance
 
-To ensure that your Windows virtual machine can communicate with the Active Directory servers, you need to update its DNS settings:
+To ensure that my Windows virtual machine can communicate with the Active Directory servers, I needed to update its DNS settings:
 
 - Connect to the Windows VM using Remote Desktop Protocol (RDP).
 - Open the **Network and Sharing Center**.
@@ -39,7 +39,7 @@ To ensure that your Windows virtual machine can communicate with the Active Dire
 
 ### 4. Add a Windows Virtual Machine to a Domain
 
-Now that your VM is properly configured, you can add it to the Active Directory domain:
+Now that my VM is properly configured, I could add it to the Active Directory domain:
 
 - From the Windows VM, open **System Properties**.
 - Go to the **Computer Name** tab and click on **Change**.
@@ -50,4 +50,4 @@ Now that your VM is properly configured, you can add it to the Active Directory 
 
 ## Conclusion
 
-By following these learning points, you will have successfully set up a project involving a Managed Service for Microsoft Active Directory on Google Cloud. This project covers provisioning AD servers, deploying Windows VMs, configuring DNS settings, and adding VMs to the domain.
+By following these learning points, I have successfully set up a project involving a Managed Service for Microsoft Active Directory on Google Cloud. This project covers provisioning AD servers, deploying Windows VMs, configuring DNS settings, and adding VMs to the domain.
